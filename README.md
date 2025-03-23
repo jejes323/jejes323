@@ -2,6 +2,7 @@
 <h4>from Republic of Korea 🇰🇷</h4>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babo9828)](https://solved.ac/babo9828/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babo9828)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill 💪🏻
 <h3>Platforms & Languages</h3>
