@@ -4,7 +4,7 @@ from Republic of Korea 🇰🇷
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babo9828)](https://solved.ac/babo9828/)
 
 ## Skill 💪🏻
-Platforms & Languages
+<h3>Platforms & Languages</h3>
 
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
