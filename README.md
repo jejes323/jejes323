@@ -1,5 +1,5 @@
 ## Hello, 안녕하세요, こんにちは 👋🏻
-from Republic of Korea 🇰🇷
+<h4>from Republic of Korea 🇰🇷</h4>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babo9828)](https://solved.ac/babo9828/)
 
