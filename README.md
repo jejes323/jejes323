@@ -7,7 +7,7 @@
 </div>
 
 ## Skill 💪🏻
-<h3>Platforms & Languages</h3>
+<h4>Platforms & Languages</h3>
 
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
