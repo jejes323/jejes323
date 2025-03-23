@@ -3,6 +3,8 @@
 from korea
 2025.03.19 ~ Japan 🇯🇵
 
+<img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+
 <!--
 **jejes323/jejes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
