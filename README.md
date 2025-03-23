@@ -1,7 +1,7 @@
 ## Hello, 안녕하세요, こんにちは
-# from korea
 
-## 2025.03.19 ~ Japan 🇯🇵
+from korea
+2025.03.19 ~ Japan 🇯🇵
 
 <!--
 **jejes323/jejes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
