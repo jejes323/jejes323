@@ -1,7 +1,5 @@
 ## Hello, 안녕하세요, こんにちは 👋🏻
-
 from korea
-2025.03.19 ~ Japan 🇯🇵
 
 <div align=center>
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
