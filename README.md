@@ -5,7 +5,7 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=babo9828" width="42%" height="100%"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejes323&layout=compact&exclude_repo=jejes323.github.io&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejes323&layout=compact&exclude_repo=jejes323.github.io&langs_count=5)
 
 ## Skill 💪🏻
 #### Platforms & Languages
