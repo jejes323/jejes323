@@ -2,6 +2,9 @@
 from Republic of Korea 🇰🇷
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babo9828)](https://solved.ac/babo9828/)
+
+## Skill 💪🏻
+
 <div align=center>
     <br>
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
