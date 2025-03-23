@@ -5,8 +5,6 @@
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jejes323&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=babo9828" width="42%" height="100%"/>
 </div>
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username={jejes323}&layout=compact)
-
 
 ## Skill 💪🏻
 <h3>Platforms & Languages</h3>
