@@ -18,6 +18,9 @@ Platforms & Languages
 
 ## Tools ⚙️ 
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
 <!--
 **jejes323/jejes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
