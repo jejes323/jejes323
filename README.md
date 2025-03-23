@@ -3,7 +3,10 @@
 from korea
 2025.03.19 ~ Japan 🇯🇵
 
-<img src="https://img.shields.io/badge/C++-A8B9CC.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<div align=center>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-A8B9CC.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+</div>
 
 <!--
 **jejes323/jejes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
