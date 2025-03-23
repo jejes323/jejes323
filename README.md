@@ -1,5 +1,4 @@
 ## Hello, 안녕하세요, こんにちは 👋🏻
-from korea
 
 <div align=center>
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
