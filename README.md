@@ -17,7 +17,7 @@ Platforms & Languages
 </div>
 
 ## Tools ⚙️ 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
