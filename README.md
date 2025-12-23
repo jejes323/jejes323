@@ -6,6 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejes323&layout=compact&exclude_repo=jejes323.github.io&langs_count=5)
 
+
 ## 🧩 Skill
 #### Platforms & Languages
 
@@ -17,7 +18,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-# 📚 Algorithm
+
+## 📚 Algorithm
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=babo9828" width="42%" height="100%"/>
 <!--
 **jejes323/jejes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
