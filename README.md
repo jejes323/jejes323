@@ -1,7 +1,7 @@
 ## Hello, 안녕하세요, こんにちは 👋🏻
 #### from Republic of Korea 🇰🇷
 
-![jejes323 Github stats](github-readme-stats-jejes323.vercel.app/api?username=jejes323&show_icons=true&theme=radical)
+![jejes323 Github stats](https://github-readme-stats-jejes323.vercel.app/api?username=jejes323&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejes323&layout=compact&exclude_repo=jejes323.github.io&langs_count=5)
 
 
