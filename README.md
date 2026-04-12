@@ -17,7 +17,7 @@
 
 
 ## 📚 Algorithm
-<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=babo9828" width="42%" height="100%"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babo9828)](https://solved.ac/babo9828/)
 <!--
 **jejes323/jejes323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
