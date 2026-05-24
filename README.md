@@ -13,5 +13,5 @@
 ![MySQl](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📚 Algorithm
+## 🌟 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babo9828)](https://solved.ac/babo9828/)
