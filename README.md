@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats-cyan-one-23.vercel.app/api/top-langs/?username=jejes323&layout=compact&exclude_repo=jejes323.github.io&langs_count=5)
 
 
-## 🧩 Skill
+## 🔥 Skill
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![MySQl](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
